@@ -69,7 +69,7 @@ with gr.Blocks(css=custom_css, title="Property Rent Predictor") as interface:
             # Right Column: Developer Details & Tools
             with gr.Column(scale=1):
                 gr.Markdown("### 👨‍💻 About the Developer")
-                gr.Markdown("**Rohit**)
+                gr.Markdown("**Rohit**")
                 
                 gr.Markdown("### 🛠️ Tools Used")
                 gr.Markdown("""
